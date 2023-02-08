@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="@string/all_labels">
+        <menu>
+            <item
+                android:id="@+id/babiesMeal"
+                android:title="Babies Meal" />
+            <item
+                android:id="@+id/toddlersMeal"
+                android:title="Toddlers Meal" />
+            <item
+                android:id="@+id/strategies"
+                android:title="Strategies / Tips" />
+            <item
+                android:id="@+id/community"
+                android:title="Online Community" />
+        </menu>
+    </item>
+
+    <item android:title="@string/about_us">
+        <menu>
+            <item
+                android:id="@+id/ourTeam"
+                android:title="Our Team" />
+            <item
+                android:id="@+id/reference"
+                android:title="Reference" />
+            <item
+                android:id="@+id/termsAndConditions"
+                android:title="Terms and Conditions" />
+        </menu>
+    </item>
+</menu>

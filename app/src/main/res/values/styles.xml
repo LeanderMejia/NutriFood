@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="side_nav_text">
+        <item name="fontFamily">@font/lato_bold</item>
+    </style>
+
+    <style name="CollapsedAppBar">
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">@color/dark</item>
+        <item name="android:fontFamily">@font/montserrat_bold</item>
+    </style>
+
+    <style name="AlertDialogTheme" parent="Theme.AppCompat.DayNight.Dialog.Alert">
+        <item name="buttonBarPositiveButtonStyle">@style/PositiveButtonStyle</item>
+        <item name="buttonBarNegativeButtonStyle">@style/NegativeButtonStyle</item>
+    </style>
+
+    <style name="PositiveButtonStyle" parent="Widget.MaterialComponents.Button">
+        <item name="android:textColor">@color/white</item>
+        <item name="backgroundTint">@color/remove</item>
+        <item name="android:layout_marginLeft">5dp</item>
+    </style>
+
+    <style name="NegativeButtonStyle" parent="Widget.MaterialComponents.Button.TextButton.Dialog">
+        <item name="android:textColor">@color/grey</item>
+    </style>
+
+    <style name="CursorColor" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+        <item name="colorControlNormal">@color/dark</item>
+        <item name="colorControlActivated">@color/dark</item>
+        <item name="colorControlHighlight">@color/dark</item>
+    </style>
+
+</resources>

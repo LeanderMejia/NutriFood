@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/primary"
+    android:paddingLeft="30dp"
+    android:paddingRight="30dp"
+    tools:context=".Activity.SignInActivity">
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/icon"
+        android:layout_width="120dp"
+        android:layout_height="120dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="45dp"
+        android:src="@drawable/app_icon" />
+
+    <TextView
+        android:id="@+id/title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/icon"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="39dp"
+        android:layout_marginEnd="30dp"
+        android:layout_marginBottom="10dp"
+        android:fontFamily="@font/montserrat_bold"
+        android:text="Welcome Back!"
+        android:textColor="@color/black"
+        android:textSize="24sp" />
+
+    <TextView
+        android:id="@+id/subtitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/title"
+        android:layout_alignParentEnd="true"
+        android:fontFamily="@font/hindmadurai_light"
+        android:text="Let’s log you in to join our community and keep your favorites."
+        android:textColor="@color/black"
+        android:textSize="18sp" />
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/facebookBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/subtitle"
+        android:layout_marginTop="35dp"
+        android:backgroundTint="#4267B2"
+        android:drawableLeft="@drawable/fb_icon"
+        android:fontFamily="@font/lato_regular"
+        android:paddingTop="5dp"
+        android:paddingBottom="5dp"
+        android:text="Sign in with Facebook"
+        android:textAllCaps="false"
+        android:textColor="#FBF5F5"
+        android:textSize="16sp"
+        app:cornerRadius="20dp" />
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/googleBtn"
+        style="@style/Widget.MaterialComponents.Button.OutlinedButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/facebookBtn"
+        android:layout_marginTop="10dp"
+        android:drawableLeft="@drawable/google_icon"
+        android:fontFamily="@font/lato_regular"
+        android:paddingTop="5dp"
+        android:paddingBottom="5dp"
+        android:text="Sign in with Google"
+        android:textAllCaps="false"
+        android:textColor="#000000"
+        android:textSize="16sp"
+        app:cornerRadius="20dp"
+        app:strokeColor="@color/black" />
+
+    <TextView
+        android:id="@+id/termAndCondition"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/googleBtn"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        android:fontFamily="@font/hindmadurai_regular"
+        android:text="@string/terms_and_condition"
+        android:textAlignment="center"
+        android:textSize="14sp" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="45dp"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/skipBtn"
+            style="@style/Widget.MaterialComponents.Button.TextButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/googleBtn"
+            android:layout_alignParentEnd="true"
+            android:background="@color/white"
+            android:drawableRight="@drawable/ic_baseline_arrow_forward_24"
+            android:drawablePadding="10dp"
+            android:drawableTint="@color/black"
+            android:fontFamily="@font/hindmadurai_regular"
+            android:text="Skip for now"
+            android:textAllCaps="false"
+            android:textColor="@color/black"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+</RelativeLayout>

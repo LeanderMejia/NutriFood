@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="15dp">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:fontFamily="@font/lato_bold"
+        android:text="Report Violation"
+        android:textAlignment="center"
+        android:textColor="@color/black"
+        android:textSize="17sp" />
+
+    <RadioGroup
+        android:id="@+id/radioGroup"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:checkedButton="@+id/radio_button_1">
+
+        <RadioButton
+            android:id="@+id/report1"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:buttonTint="@color/grey"
+            android:checked="true"
+            android:text="Irrelevant information" />
+
+        <RadioButton
+            android:id="@+id/report2"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:buttonTint="@color/grey"
+            android:text="Spam" />
+
+        <RadioButton
+            android:id="@+id/report3"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:buttonTint="@color/grey"
+            android:text="Harassment" />
+
+        <RadioButton
+            android:id="@+id/report4"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:buttonTint="@color/grey"
+            android:text="Sharing inappropriate things" />
+
+        <RadioButton
+            android:id="@+id/report5"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:buttonTint="@color/grey"
+            android:text="Other" />
+
+    </RadioGroup>
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:id="@+id/otherReportLayout"
+        style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:visibility="gone"
+        app:boxCornerRadiusBottomEnd="8dp"
+        app:boxCornerRadiusBottomStart="8dp"
+        app:boxCornerRadiusTopEnd="8dp"
+        app:boxCornerRadiusTopStart="8dp"
+        app:boxStrokeColor="#1973E8"
+        app:boxStrokeWidth="1dp"
+        app:boxStrokeWidthFocused="1.5dp"
+        app:counterEnabled="true"
+        app:counterMaxLength="500"
+        app:endIconMode="clear_text"
+        app:errorEnabled="true"
+        app:helperText="Tell us the problem here"
+        app:helperTextEnabled="true"
+        app:helperTextTextColor="@color/light"
+        app:hintEnabled="false">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/otherReportInput"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:cursorVisible="true"
+            android:fontFamily="@font/hindmadurai_regular"
+            android:gravity="top"
+            android:inputType="textMultiLine"
+            android:minLines="4"
+            android:textColor="@color/light"
+            android:textSize="16sp" />
+
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/submitBtn"
+        style="@style/Widget.MaterialComponents.Button.Icon"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:backgroundTint="@color/grey"
+        android:fontFamily="@font/poppins_regular"
+        android:padding="7dp"
+        android:text="SUBMIT"
+        android:textColor="#FBF5F5"
+        android:textSize="16sp"
+        app:cornerRadius="10dp"
+        app:iconGravity="textStart" />
+
+</LinearLayout>

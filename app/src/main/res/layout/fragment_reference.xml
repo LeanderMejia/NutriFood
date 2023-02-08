@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginBottom="?actionBarSize"
+    android:background="@color/primary"
+    tools:context=".Fragment.ReferenceFragment">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="22dp"
+        android:paddingTop="22dp"
+        android:paddingRight="22dp">
+
+        <TextView
+            android:id="@+id/header"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="50dp"
+            android:layout_marginBottom="20dp"
+            android:fontFamily="@font/montserrat_bold"
+            android:text="Reference"
+            android:textColor="@color/black"
+            android:textIsSelectable="true"
+            android:textSize="24sp" />
+
+        <TextView
+            android:id="@+id/mealTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/header"
+            android:layout_marginBottom="10dp"
+            android:fontFamily="@font/lato_bold"
+            android:text="Meal Reference"
+            android:textColor="@color/black"
+            android:textIsSelectable="true"
+            android:textSize="18sp" />
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/recyclerView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/mealTitle"
+            android:layout_marginBottom="10dp" />
+
+        <TextView
+            android:id="@+id/strategiesTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/recyclerView"
+            android:layout_marginBottom="10dp"
+            android:fontFamily="@font/lato_bold"
+            android:text="Strategies Reference"
+            android:textColor="@color/black"
+            android:textIsSelectable="true"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/strategiesLink"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/strategiesTitle"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="40dp"
+            android:fontFamily="@font/lato_regular"
+            android:text="@string/strategiesLink"
+            android:textColorLink="@color/blue"
+            android:textIsSelectable="true"
+            android:textSize="14sp" />
+
+    </RelativeLayout>
+
+</ScrollView>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "146505499333",
+    "firebase_url": "https://nutrifood-f09f9-default-rtdb.firebaseio.com",
+    "project_id": "nutrifood-f09f9",
+    "storage_bucket": "nutrifood-f09f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:146505499333:android:79ee5e22f818931dc3a6ac",
+        "android_client_info": {
+          "package_name": "com.dpio.nutrifood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "146505499333-a5pfrn3947p4jccdp3gu7ii0mtoojiqu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCN1GMJNwZQk77IAdR_3-HXlSOYRXgmYHM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "146505499333-a5pfrn3947p4jccdp3gu7ii0mtoojiqu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

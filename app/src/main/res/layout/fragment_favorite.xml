@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/primary"
+    android:padding="22dp"
+    tools:context=".Fragment.FavoriteFragment">
+
+    <TextView
+        android:id="@+id/title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"
+        android:layout_marginBottom="20dp"
+        android:drawableEnd="@drawable/favorite_selector"
+        android:drawablePadding="12dp"
+        android:fontFamily="@font/montserrat_bold"
+        android:text="Favorite Meal"
+        android:textColor="@color/dark"
+        android:textSize="24sp" />
+
+    <TextView
+        android:id="@+id/emptyFavoriteMsg"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/title"
+        android:background="@drawable/info_textview_border"
+        android:drawableStart="@drawable/ic_baseline_info_24"
+        android:drawablePadding="5dp"
+        android:fontFamily="@font/hindmadurai_regular"
+        android:gravity="center_vertical"
+        android:padding="10dp"
+        android:text="The favorite meal is currently empty."
+        android:textColor="@color/black"
+        android:textSize="15sp"
+        android:visibility="gone" />
+
+    <TextView
+        android:id="@+id/noAccountMsg"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/emptyFavoriteMsg"
+        android:background="@drawable/warning_textview_border"
+        android:drawableStart="@drawable/ic_baseline_warning_24"
+        android:drawablePadding="5dp"
+        android:fontFamily="@font/hindmadurai_regular"
+        android:gravity="center_vertical"
+        android:padding="10dp"
+        android:text="Need to sign in to use the favorite feature."
+        android:textColor="@color/black"
+        android:textSize="15sp"
+        android:visibility="gone" />
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recyclerView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/noAccountMsg"
+        android:overScrollMode="never"
+        android:paddingBottom="?attr/actionBarSize" />
+
+</RelativeLayout>

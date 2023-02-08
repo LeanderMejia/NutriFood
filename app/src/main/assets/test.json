@@ -1,0 +1,1711 @@
+{
+  "babiesMeal": [
+    {
+      "meal": "Mango Puree",
+      "imageURL": "b1",
+      "nutrients": [
+        "Vitamin A",
+        "Vitamin C",
+        "Vitamin K",
+        "Potassium",
+        "Beta-carotene",
+        "Folate",
+        "Choline",
+        "Magnesium"
+      ],
+      "ingredients": [
+        "• 1 mango"
+      ],
+      "procedures": [
+        "1. Cut the mango into three pieces and scoop out the flesh.",
+        "2. Blend it in a blender, and then serve it to your child."
+      ],
+      "allergen": "This meal is not contained any common allergen."
+    },
+    {
+      "meal": "Ripe Papaya Puree",
+      "imageURL": "b2",
+      "nutrients": [
+        "Vitamin A",
+        "Vitamin C",
+        "Vitamin B",
+        "Vitamin E",
+        "Fiber"
+      ],
+      "ingredients": [
+        "• 1 papaya"
+      ],
+      "procedures": [
+        "1. Divide the papaya and only take half.",
+        "2. Peel, remove the seed, and place in blender.",
+        "3. Blend it in a blender, and then serve it to your child."
+      ],
+      "allergen": "This meal is not contained any common allergen."
+    },
+    {
+      "meal": "Dragon Fruit Puree",
+      "imageURL": "b3",
+      "nutrients": [
+        "Calcium",
+        "Iron",
+        "Vitamin B",
+        "Vitamin C"
+      ],
+      "ingredients": [
+        "• 1 dragon fruit"
+      ],
+      "procedures": [
+        "1. Divide the dragon fruit in half and place the flesh in a blender.",
+        "2. Blend the ingredient in a blender and serve to your child."
+      ],
+      "allergen": "This meal is not contained any common allergen."
+    },
+    {
+      "meal": "Pear Puree",
+      "imageURL": "b4",
+      "nutrients": [
+        "Copper",
+        "Vitamin C",
+        "Vitamin K",
+        "Fiber"
+      ],
+      "ingredients": [
+        "• 1 pear"
+      ],
+      "procedures": [
+        "1. Peel the pear and cut into small pieces.",
+        "2. Blend the ingredient in a blender and serve to your child."
+      ],
+      "allergen": "This meal is not contained any common allergen."
+    },
+    {
+      "meal": "Apple Puree",
+      "imageURL": "b5",
+      "nutrients": [
+        "Fiber",
+        "Vitamin C",
+        "Vitamin B6"
+      ],
+      "ingredients": [
+        "• 1 apple"
+      ],
+      "procedures": [
+        "1. Peel the apple and cut into small pieces.",
+        "2. Blend the ingredient in a blender and serve to your child."
+      ],
+      "allergen": "This meal is not contained any common allergen."
+    },
+    {
+      "meal": "Banana Puree",
+      "imageURL": "b6",
+      "nutrients": [
+        "Folate",
+        "Vitamin B6",
+        "Vitamin C",
+        "Potassium"
+      ],
+      "ingredients": [
+        "• 1 banana"
+      ],
+      "procedures": [
+        "1. Peel the banana and cut into small pieces.",
+        "2. Blend the ingredient in a blender and serve to your child."
+      ],
+      "allergen": "This meal is not contained any common allergen."
+    },
+    {
+      "meal": "Avocado Banana Puree",
+      "imageURL": "b7",
+      "nutrients": [
+        "Fiber",
+        "Vitamin B",
+        "Folate",
+        "Vitamin E",
+        "Zinc",
+        "Folate",
+        "Vitamin B6",
+        "Vitamins C",
+        "Potassium"
+      ],
+      "ingredients": [
+        "• 1 avocado ",
+        "• 1 banana "
+      ],
+      "procedures": [
+        "1. Cut the avocado in half, scoop out the flesh, and place it in the blender.",
+        "2. Peel the banana and cut it into small pieces before combining it with the avocado.",
+        "3. Blend the ingredient in a blender and serve to your child."
+      ],
+      "allergen": "This meal is not contained any common allergen."
+    },
+    {
+      "meal": "Avocado Puree",
+      "imageURL": "b8",
+      "nutrients": [
+        "Protein",
+        "Carbohydrates",
+        "Vitamin B12",
+        "Calcium",
+        "Vitamin D",
+        "Folate",
+        "Fiber",
+        "Vitamin B",
+        "Vitamin E",
+        "Zinc"
+      ],
+      "ingredients": [
+        "• 1 avocado",
+        "• 2 tbsp of purified milk"
+      ],
+      "procedures": [
+        "1. Cut the avocado in half and scoop out the flesh.",
+        "2. After blending the avocado, place it in the container.",
+        "3. Add 2 tbsp of purified milk to the avocado blender and mix.",
+        "4. Serve to your child."
+      ],
+      "allergen": "This meal is not contained any common allergen."
+    },
+    {
+      "meal": "Potato Puree",
+      "imageURL": "b9",
+      "nutrients": [
+        "Folate",
+        "Iron",
+        "Vitamin B6",
+        "Zinc"
+      ],
+      "ingredients": [
+        "• 1 potato "
+      ],
+      "procedures": [
+        "1. Boil the potato for 10 minutes in water to soften.",
+        "2. Peel and cut it into small pieces once it has softened.",
+        "3. Blend it and serve it to your child."
+      ],
+      "allergen": "This meal is not contained any common allergen."
+    },
+    {
+      "meal": "Green Beans Puree",
+      "imageURL": "b10",
+      "nutrients": [
+        "Vitamin A",
+        "Vitamin C",
+        "Vitamin K"
+      ],
+      "ingredients": [
+        "• 10 pcs of green beans"
+      ],
+      "procedures": [
+        "1. Divide the green beans into two.",
+        "2. Boil water and put green beans for it to soften.",
+        "3. Soften it for 10 minutes.",
+        "4. Let it refrigerate after softening.",
+        "5. Blend it and serve it to your child."
+      ],
+      "allergen": "This meal is not contained any common allergen."
+    },
+    {
+      "meal": "Cucumber Puree",
+      "imageURL": "b11",
+      "nutrients": [
+        "Vitamin C",
+        "Vitamin K",
+        "Folate",
+        "Potassium",
+        "Magnesium"
+      ],
+      "ingredients": [
+        "• half cucumber"
+      ],
+      "procedures": [
+        "1. Cut the cucumber into small pieces and place in blender.",
+        "2. Blend it and serve it to your child."
+      ],
+      "allergen": "This meal is not contained any common allergen."
+    },
+    {
+      "meal": "Squash Puree",
+      "imageURL": "b12",
+      "nutrients": [
+        "Fiber",
+        "Vitamin A",
+        "Vitamin B",
+        "Vitamin C",
+        "Vitamin B6",
+        "Folate",
+        "Iron"
+      ],
+      "ingredients": [
+        "• 1/4 squash "
+      ],
+      "procedures": [
+        "1. Peel the squash and remove the seed.",
+        "2. Boil the water and soften the squash for 15 minutes.",
+        "3. Cut into small pieces after softening.",
+        "4. Blend it and serve it to your child."
+      ],
+      "allergen": "This meal is not contained any common allergen."
+    },
+    {
+      "meal": "Sweet Potato Puree",
+      "imageURL": "b13",
+      "nutrients": [
+        "Vitamin A",
+        "Vitamin B6",
+        "Fiber"
+      ],
+      "ingredients": [
+        "• 1 medium size of sweet potato"
+      ],
+      "procedures": [
+        "1. Peel the sweet potato and boil for 15 minutes to soften.",
+        "2. After softening, cut into small pieces.",
+        "3. Blend it and serve it to your child."
+      ],
+      "allergen": "This meal is not contained any common allergen."
+    },
+    {
+      "meal": "Cauliflower Puree",
+      "imageURL": "b14",
+      "nutrients": [
+        "Vitamin B",
+        "Vitamin C",
+        "Vitamin B6",
+        "Folate"
+      ],
+      "ingredients": [
+        "• 10 pieces cauliflower"
+      ],
+      "procedures": [
+        "1. Simmer the cauliflower and soften for 15 minutes.",
+        "2. Refrigerate and place in a blender.",
+        "3. Blend it and serve it to your child."
+      ],
+      "allergen": "This meal is not contained any common allergen."
+    },
+    {
+      "meal": "Green Peas Puree",
+      "imageURL": "b15",
+      "nutrients": [
+        "Vitamin A",
+        "Vitamin C",
+        "Vitamin K",
+        "Iron",
+        "Zinc"
+      ],
+      "ingredients": [
+        "• 1/4 green peas"
+      ],
+      "procedures": [
+        "1. Simmer the green peas and soften for 15 minutes.",
+        "2. Refrigerate and place in a blender.",
+        "3. Blend it and serve it to your child."
+      ],
+      "allergen": "This meal is not contained any common allergen."
+    },
+    {
+      "meal": "Broccoli Puree",
+      "imageURL": "b16",
+      "nutrients": [
+        "Vitamin A",
+        "Vitamin B6",
+        "Folate"
+      ],
+      "ingredients": [
+        "• 10 pcs of broccoli"
+      ],
+      "procedures": [
+        "1. Simmer the broccoli and soften for 15 minutes.",
+        "2. Refrigerate and place in blender.",
+        "3. Blend it and serve it to your child."
+      ],
+      "allergen": "This meal is not contained any common allergen."
+    },
+    {
+      "meal": "Broccoli Potato Puree",
+      "imageURL": "b17",
+      "nutrients": [
+        "Vitamin A",
+        "Vitamin B6",
+        "Folate",
+        "Fiber"
+      ],
+      "ingredients": [
+        "• 10 pcs of broccoli",
+        "• 1 potato"
+      ],
+      "procedures": [
+        "1. Peel the potato.",
+        "2. Cut it into small pieces.",
+        "3. Simmer and soften the broccoli and potato for 15 minutes.",
+        "4. Mix the ingredients and place it in a blender.",
+        "5. Blend it and serve it to your child."
+      ],
+      "allergen": "This meal is not contained any common allergen."
+    },
+    {
+      "meal": "Mashed potato",
+      "imageURL": "b18",
+      "nutrients": [
+        "Folate",
+        "Iron",
+        "Vitamin B6",
+        "Zinc",
+        "Vitamin B",
+        "Vitamin C"
+      ],
+      "ingredients": [
+        "• 1 potato"
+      ],
+      "procedures": [
+        "1. Peel the potato and boil with water, soften for 15 mins.",
+        "2. When softened, dissolve it.",
+        "3. Serve it to your child."
+      ],
+      "allergen": "This meal is not contained any common allergen."
+    },
+    {
+      "meal": "Carrot Puree",
+      "imageURL": "b19",
+      "nutrients": [
+        "Vitamin A",
+        "Vitamin B6",
+        "Fiber"
+      ],
+      "ingredients": [
+        "• 1 carrot"
+      ],
+      "procedures": [
+        "1. Peel the carrot and cut into small pieces.",
+        "2. Soften for 15 minutes in boiling water.",
+        "3. Refrigerate and place in blender.",
+        "4. Blend it and serve it to your child."
+      ],
+      "allergen": "This meal is not contained any common allergen."
+    },
+    {
+      "meal": "Carrot Potato Puree",
+      "imageURL": "b20",
+      "nutrients": [
+        "Vitamin A",
+        "Vitamin B6",
+        "Fiber",
+        "Iron",
+        "Zinc"
+      ],
+      "ingredients": [
+        "• 1 carrot",
+        "• 1 potato"
+      ],
+      "procedures": [
+        "1. Peel and cut the carrot and potato into small pieces.",
+        "2. Soften for 15 minutes in boiling water.",
+        "3. Place in the refrigerator and blend.",
+        "4. Blender and e-serve to your child."
+      ],
+      "allergen": "This meal is not contained any common allergen."
+    }
+  ],
+  "toddlersMeal": [
+    {
+      "meal": "Vege with Egg and Banana",
+      "imageURL": "t1",
+      "nutrients": [
+        "Vitamin A",
+        "Vitamin C",
+        "Vitamin B6",
+        "Vitamin K",
+        "Fiber",
+        "Folate",
+        "Iron",
+        "Zinc"
+      ],
+      "ingredients": [
+        "• half carrot",
+        "• half potato",
+        "• 1/8 green peas",
+        "• half egg",
+        "• 3 pcs slice of apple"
+      ],
+      "procedures": [
+        "1. Peel the carrot and potato.",
+        "2. Cut 3 pieces of apple.",
+        "3. Boil the egg for 8 minutes.",
+        "4. Then peel and cut into two.",
+        "5. Cut the carrot and potato into cubes.",
+        "6. For 18 minutes, boil and soften the carrot, potato, and green peas.",
+        "7. When finished, serve it to your child."
+      ],
+      "allergen": "This meal is not contained any common allergen."
+    },
+    {
+      "meal": "Pumpkin Meal with Banana and Cucumber",
+      "imageURL": "t2",
+      "nutrients": [
+        "Vitamin A",
+        "Vitamin C",
+        "Vitamin K",
+        "Iron",
+        "Zinc",
+        "Folate",
+        "Iron",
+        "Magnesium"
+      ],
+      "ingredients": [
+        "• 1/8 of pumpkin",
+        "• 1/8 of green peas",
+        "• 5 pcs slice of banana",
+        "• 2 pcs slice of cucumber"
+      ],
+      "procedures": [
+        "1. Remove the skin and the seeds of the pumpkin and cut them into small pieces.",
+        "2. Take 1/8 green beans.",
+        "3. Slice 5 pieces of banana.",
+        "4. Slice 2 pieces of cucumber.",
+        "5. Boil water and soften with pumpkin and green beans for 18 minutes.",
+        "6. When finished, serve it to your child."
+      ],
+      "allergen": "This meal is not contained any common allergen."
+    },
+    {
+      "meal": "Saute Green Beans with Orange and Egg",
+      "imageURL": "t3",
+      "nutrients": [
+        "Vitamin A",
+        "Vitamin C",
+        "Vitamin K",
+        "Iron",
+        "Zinc",
+        "Folate"
+      ],
+      "ingredients": [
+        "• 10 pcs of green beans",
+        "• garlic",
+        "• 1 spoon of oil",
+        "• half egg",
+        "• 5 pcs of orange"
+      ],
+      "procedures": [
+        "1. Cut the green beans in half.",
+        "2. Slice a garlic clove",
+        "3. Boil the egg for 8 minutes, then cut it in half.",
+        "4. Peel the orange and cut it into 5 pieces.",
+        "5. Simmer for 18 minutes to soften the green beans.",
+        "6. Then heat a pan and add a spoon when it's hot fat.",
+        "7. Grill the garlic until golden brown as well as the softened green beans.",
+        "8. Cook for 10 minutes, stirring frequently to not burn.",
+        "9. When finished, serve it to your child."
+      ],
+      "allergen": "This meal is not contained any common allergen."
+    },
+    {
+      "meal": "Sweet Potato Broccoli Meal with Apple",
+      "imageURL": "t4",
+      "nutrients": [
+        "Vitamin A",
+        "Vitamin C",
+        "Vitamin K",
+        "Potassium",
+        "Beta-carotene",
+        "Folate",
+        "Choline"
+      ],
+      "ingredients": [
+        "• half of sweet potato",
+        "• 5 pcs of broccoli",
+        "• 3 pcs slice of apple"
+      ],
+      "procedures": [
+        "1. Cut the sweet potato into small pieces after peeling it.",
+        "2. Boil water for 18 minutes while the broccoli and sweet potato soften.",
+        "3. When finished, serve it to your child."
+      ],
+      "allergen": "This meal is not contained any common allergen."
+    },
+    {
+      "meal": "Vegetable Nuggets",
+      "imageURL": "t5",
+      "nutrients": [
+        "Vitamin A",
+        "Vitamin C",
+        "Potassium",
+        "Vitamin B6",
+        "Vitamin K",
+        "Potassium",
+        "Magnesium"
+      ],
+      "ingredients": [
+        "• half carrot",
+        "• 1/8 green peas",
+        "• 1/8 corn",
+        "• 200g flour",
+        "• 1 egg",
+        "• mayonnaise",
+        "• ketchup",
+        "• oil"
+      ],
+      "procedures": [
+        "1. Peel and cut the carrot, corn, and green peas into small pieces.",
+        "2. Mix carrot, corn, green peas, egg, and flour.",
+        "3. Once you've achieved a slightly thick texture, heat the pan and add the oil.",
+        "4. Cook until golden brown.",
+        "5. Make a sauce with mayonnaise and ketchup.",
+        "6. Serve it to your child after it has been fried."
+      ],
+      "allergen": "This meal is not contained any common allergen."
+    },
+    {
+      "meal": "Vegetable Chicken Meal with Apple",
+      "imageURL": "t6",
+      "nutrients": [
+        "Vitamin A",
+        "Vitamin C",
+        "Vitamin K",
+        "Potassium",
+        "Vitamin K",
+        "Beta-carotene",
+        "Folate",
+        "Choline",
+        "Iron"
+      ],
+      "ingredients": [
+        "• 1/8 carrot",
+        "• 1/8 corn",
+        "• 1/8 green peas",
+        "• 1/8 chicken",
+        "• 3 slices of apple",
+        "• 1/8 rice"
+      ],
+      "procedures": [
+        "1. Peel and cut the carrot into small pieces.",
+        "2. Simmer carrots, corn, green peas, and chicken for 18 minutes to soften.",
+        "3. then separate and cut the chicken into pieces",
+        "4. Combine corn, carrot, green peas, and chicken in a mixing bowl of rice.",
+        "5. When finished, serve your child three slices of apple."
+      ],
+      "allergen": "This meal is not contained any common allergen."
+    },
+    {
+      "meal": "Vegetable Scrambled Egg",
+      "imageURL": "t7",
+      "nutrients": [
+        "Vitamin A",
+        "Vitamin B6",
+        "Vitamin C",
+        "Folate",
+        "Iron",
+        "Zinc"
+      ],
+      "ingredients": [
+        "• 1/8 carrot",
+        "• 1/8 potato",
+        "• 1/8 green peas",
+        "• 1 egg",
+        "• star margarine"
+      ],
+      "procedures": [
+        "1. Peel and cut a carrot and a potato into small pieces.",
+        "2. Simmer the carrot, green peas, and potato to soften them.",
+        "3. Heat the pan once it is soft.",
+        "4. Add a small amount of star margarine and once melted, add the carrots, potatoes, and green peas.",
+        "5. After that, mix it for 5 minutes before adding the egg.",
+        "6. Serve it to your child when it's done."
+      ],
+      "allergen": "This meal is not contained any common allergen."
+    },
+    {
+      "meal": "Vegetable Shanghai",
+      "imageURL": "t8",
+      "nutrients": [
+        "Vitamin A",
+        "Vitamin B",
+        "Vitamin B6",
+        "Fiber",
+        "Iron",
+        "Potassium",
+        "Zinc"
+      ],
+      "ingredients": [
+        "• 1/8 carrot",
+        "• 1/8 corn",
+        "• 1/8 green peas",
+        "• wrapper",
+        "• mayonnaise",
+        "• ketchup"
+      ],
+      "procedures": [
+        "1. Peel and cut the carrot into small pieces.",
+        "2. Bring water to a boil and soften carrots, green peas, and corn.",
+        "3. Cut it into smaller pieces once it has softened.",
+        "4. Put an egg on it after it's been sliced.",
+        "5. When you are done cooking you can wrap it in a wrapper.",
+        "6. Then fry it until golden brown once wrapped.",
+        "7. Make a sauce with mayonnaise and ketchup.",
+        "8. Serve it to your child once it has been cooked."
+      ],
+      "allergen": "This meal is not contained any common allergen."
+    },
+    {
+      "meal": "Fried Cauliflower",
+      "imageURL": "t9",
+      "nutrients": [
+        "Vitamin A",
+        "Vitamin B",
+        "Vitamin B6",
+        "Vitamin C",
+        "Folate",
+        "Choline"
+      ],
+      "ingredients": [
+        "• 5 pcs of cauliflower",
+        "• breadcrumbs",
+        "• 5 slices of apple",
+        "• mayonnaise",
+        "• ketchup"
+      ],
+      "procedures": [
+        "1. Place breadcrumbs in a container as well as an egg.",
+        "2. Heat the oil in a frying pan.",
+        "3. When the cauliflower is hot, dip it first in the egg, then in the breadcrumbs, and set it aside that is in hot oil",
+        "4. Cook until golden brown.",
+        "5. Make a sauce with mayonnaise and ketchup.",
+        "6. When you are done, serve it to your child."
+      ],
+      "allergen": "This meal is not contained any common allergen."
+    },
+    {
+      "meal": "Fried Rice with Green Beans",
+      "imageURL": "t10",
+      "nutrients": [
+        "Vitamin A",
+        "Vitamin B",
+        "Copper",
+        "Fiber",
+        "Iron",
+        "Magnesium"
+      ],
+      "ingredients": [
+        "• 1/4 rice",
+        "• 1/8 green peas",
+        "• star margarine"
+      ],
+      "procedures": [
+        "1. Warm the water and soak the green peas for 15 minutes.",
+        "2. Then, in a frying pan, melt a little star margarine.",
+        "3. Add the softened green peas, mixing well.",
+        "4. Cook the rice for 15 minutes, or until it is dry.",
+        "5. Once completed, serve it to your child."
+      ],
+      "allergen": "This meal is not contained any common allergen."
+    },
+    {
+      "meal": "Egg fried rice with Orange and Cucumber",
+      "imageURL": "t11",
+      "nutrients": [
+        "Vitamin B",
+        "Copper",
+        "Fiber",
+        "Iron",
+        "Magnesium",
+        "Folate",
+        "Zinc",
+        "Iodine",
+        "Choline",
+        "Vitamin K"
+      ],
+      "ingredients": [
+        "• 1/4 rice",
+        "• 1 egg",
+        "• star margarine",
+        "• 2 slices of cucumber",
+        "• 4 pcs orange"
+      ],
+      "procedures": [
+        "1. Melt some star margarine in a frying pan.",
+        "2. Stir in the rice for 5 minutes.",
+        "3. Stir in the egg for 15 minutes, or until the rice is dry",
+        "4. When finished, serve it to your child."
+      ],
+      "allergen": "This meal is not contained any common allergen."
+    },
+    {
+      "meal": "Fried Broccoli",
+      "imageURL": "t12",
+      "nutrients": [
+        "Vitamin A",
+        "Vitamin B6",
+        "Folate",
+        "Fiber",
+        "Choline",
+        "Zinc",
+        "Vitamin C"
+      ],
+      "ingredients": [
+        "• 5 pcs of broccoli",
+        "• 1 egg",
+        "• breadcrumbs",
+        "• 5 slices of apple",
+        "• mayonnaise",
+        "• ketchup"
+      ],
+      "procedures": [
+        "1. Place breadcrumbs in both the container and the egg.",
+        "2. Heat the oil in a frying pan.",
+        "3. Soak the broccoli in the egg, then in the breadcrumbs, before frying.",
+        "4. Turn it over and place it in hot lard.",
+        "5. Cook until golden brown.",
+        "6. Combine mayonnaise and ketchup to make a sauce.",
+        "7. When finished, serve it to your child."
+      ],
+      "allergen": "This meal is not contained any common allergen."
+    },
+    {
+      "meal": "Homemade Chicken Nuggets",
+      "imageURL": "t13",
+      "nutrients": [
+        "Vitamin A",
+        "Vitamin C",
+        "Vitamin K",
+        "Potassium",
+        "Beta-carotene",
+        "Folate",
+        "Choline",
+        "Magnesium"
+      ],
+      "ingredients": [
+        "• 1/2 chicken",
+        "• 1/4 flour",
+        "• 1 egg",
+        "• mayonnaise",
+        "• ketchup"
+      ],
+      "procedures": [
+        "1. Soften the chicken.",
+        "2. When it is soft, slice it.",
+        "3. After that, combine the chicken, flour, and egg.",
+        "4. Fry it in a frying pan with oil of nugget size.",
+        "5. Make mayonnaise and ketchup sauces and combine them.",
+        "6. Once cooked, serve it to your child."
+      ],
+      "allergen": "This meal is not contained any common allergen."
+    },
+    {
+      "meal": "Potato Carrot Meal with Apple",
+      "imageURL": "t14",
+      "nutrients": [
+        "Fiber",
+        "Vitamin B6",
+        "Folate",
+        "Iron",
+        "Zinc",
+        "Vitamin B",
+        "Vitamin C"
+      ],
+      "ingredients": [
+        "• 1/8 carrot",
+        "• 1/8 potato",
+        "• 1/8 rice",
+        "• 3 slices of apple"
+      ],
+      "procedures": [
+        "1. Peel and cut the carrot and potato into small pieces.",
+        "2. Simmer for 18 minutes to soften the carrot and potato.",
+        "3. When softened, combine the carrot, potato, and rice until well combined.",
+        "4. Toss the carrot and potato together.",
+        "5. When it's done serve it to your child."
+      ],
+      "allergen": "This meal is not contained any common allergen."
+    },
+    {
+      "meal": "Banana Pancake",
+      "imageURL": "t15",
+      "nutrients": [
+        "Folate",
+        "Vitamin B6",
+        "Vitamin C",
+        "Potassium"
+      ],
+      "ingredients": [
+        "• 1 banana",
+        "• 1/4 flour",
+        "• star margarine"
+      ],
+      "procedures": [
+        "1. Peel and grind the banana.",
+        "2. In a container, combine the banana and flour.",
+        "3. Melt margarine in a frying pan.",
+        "4. Fry the pancakes in small batches.",
+        "5. When done frying, spread star margarine on top.",
+        "6. Serve it to your child."
+      ],
+      "allergen": "This meal is not contained any common allergen."
+    },
+    {
+      "meal": "Cauliflower Nuggets with Orange and Egg",
+      "imageURL": "t16",
+      "nutrients": [
+        "Vitamin B",
+        "Vitamin B6",
+        "Folate",
+        "Choline",
+        "Vitamin A",
+        "Choline"
+      ],
+      "ingredients": [
+        "• 10 pcs of cauliflower",
+        "• 1/4 flour",
+        "• 2 eggs",
+        "• 4 pcs of orange"
+      ],
+      "procedures": [
+        "1. Cut the cauliflower into small pieces and combine it with 1 egg in a container.",
+        "2. Mix in the flour thoroughly.",
+        "3. Boil 1 egg for 8 minutes and then divide it.",
+        "4. Heat the oil in a frying pan.",
+        "5. Fry the nuggets.",
+        "6. Serve with half an orange and half an egg."
+      ],
+      "allergen": "This meal is not contained any common allergen."
+    },
+    {
+      "meal": "Colorful Fries with Banana and Egg",
+      "imageURL": "t17",
+      "nutrients": [
+        "Vitamin B6",
+        "Fiber",
+        "Vitamin A",
+        "Folate",
+        "Iron",
+        "Zinc",
+        "Vitamin C",
+        "Potassium",
+        "Choline"
+      ],
+      "ingredients": [
+        "• half carrot",
+        "• half potato",
+        "• 1 bell pepper",
+        "• 5 pcs banana",
+        "• half egg"
+      ],
+      "procedures": [
+        "1. Peel the carrots and potatoes.",
+        "2. Cut the carrot, potato, and bell pepper into 5 pieces each.",
+        "3. Grease a frying pan with olive oil.",
+        "4. Cook for 15 minutes.",
+        "5. When finished, serve it with half an egg and a banana."
+      ],
+      "allergen": "This meal is not contained any common allergen."
+    },
+    {
+      "meal": "Fluffy Scrambled Egg with Orange and Cucumber",
+      "imageURL": "t18",
+      "nutrients": [
+        "Vitamin B",
+        "Folate",
+        "Zinc",
+        "Iron",
+        "Vitamin A",
+        "Vitamin K"
+      ],
+      "ingredients": [
+        "• 1 egg",
+        "• 2pcs orange",
+        "• 2 slices of cucumber",
+        "• star margarine"
+      ],
+      "procedures": [
+        "1. Open and thoroughly mix the egg.",
+        "2. Heat the pan and coat it with margarine.",
+        "3. Cook the egg here until soft",
+        "4. When done, turn the two cucumbers into eyes and the orange into noses.",
+        "5. Make a smiley egg and serve it to your child."
+      ],
+      "allergen": "This meal is not contained any common allergen."
+    },
+    {
+      "meal": "Cheese Pasta with Egg and Cucumber",
+      "imageURL": "t19",
+      "nutrients": [
+        "Vitamin A",
+        "Vitamin C",
+        "Vitamin K",
+        "Potassium",
+        "Folate",
+        "Choline",
+        "Magnesium"
+      ],
+      "ingredients": [
+        "• 1/8 pasta",
+        "• powder cheese",
+        "• half egg",
+        "• 4 slices of cucumber"
+      ],
+      "procedures": [
+        "1. Bring water to a boil and soak the pasta for 15 minutes.",
+        "2. When soft, place in a container with powdered cheese and mix.",
+        "3. Serve with cucumber slices and eggs."
+      ],
+      "allergen": "This meal is not contained any common allergen."
+    },
+    {
+      "meal": "Chicken Fried Rice with Orange",
+      "imageURL": "t20",
+      "nutrients": [
+        "Vitamin B6",
+        "Fiber",
+        "Vitamin B",
+        "Iron",
+        "Potassium",
+        "Zinc",
+        "Vitamin C"
+      ],
+      "ingredients": [
+        "• 1/8 carrot",
+        "• 1/8 corn",
+        "• 1/8 green peas",
+        "• 1/8 chicken",
+        "• 1/8 rice",
+        "• star margarin",
+        "• 4 pcs orange"
+      ],
+      "procedures": [
+        "1. Peel and cut the carrot into small pieces, then soften with the corn and green peas for 15 minutes.",
+        "2. Cook the chicken for 20 minutes on high heat.",
+        "3. Melt margarine in a frying pan.",
+        "4. First, combine the green peas, carrots, corn, and chicken in a mixing bowl for 10 minutes.",
+        "5. Cook it for 15 minutes after the rice.",
+        "6. Serve with orange slices."
+      ],
+      "allergen": "This meal is not contained any common allergen."
+    }
+  ],
+  "strategies": [
+    {
+      "title": "Start around 6 months",
+      "description": "Though your pediatrician may give you the green light to start solids at your baby’s four-month appointment, research shows – and health experts agree - that waiting until six months is best for your baby’s health. Not only can introducing solids too early can be harmful, but most babies aren’t developmentally or physiologically ready until 6-8 months of age."
+    },
+    {
+      "title": "Start with real, wholesome foods",
+      "description": "In the past, many parents offered rice cereal as the first food, but this is an outdated recommendation with no real reasoning behind it. Instead, start with whatever fruit or vegetable puree you like. Squash, sweet potato, peas, avocado, and banana are all good choices because they can easily be blended into a smooth puree. But, as long as you avoid honey and cow’s milk (not recommended for babies under one year), what you offer is up to you."
+    },
+    {
+      "title": "Keep it runny",
+      "description": "Since this is the first time your baby will be swallowing something other than milk, the consistency of whatever you offer should be very runny: somewhere in between a liquid and a solid. You can achieve this by mixing a smooth puree with breastmilk or formula. As your baby masters the process of eating from a spoon, you can slowly offer thicker, more textured purees."
+    },
+    {
+      "title": "Begin with one feeding per day",
+      "description": "The first few months of solid feeding are about introducing your baby to new flavors, and textures, and to the routine of eating food other than milk. So it’s best to start slow – with one feeding per day, at a time when your baby is in a good mood and somewhat hungry but not ravenous. An hour or so after nursing/bottle-feeding, or when your baby is happy and well-rested, are generally good times."
+    },
+    {
+      "title": "Continue to breastfeed / bottle-feed",
+      "description": "Nearly all of your baby’s calories and nutrients will still be coming from breastmilk or formula, so don’t taper back on nursing or bottle-feeding just yet. Breastmilk or formula is still the most nutritious food for your baby, and solids won’t become the bulk of your baby’s diet until one year of age or even later."
+    },
+    {
+      "title": "Baby doesn’t like something",
+      "description": "You may feel like freaking out if your baby rejects broccoli, but there’s no need. It can take 10 or more exposures to a food for a baby to begin to like it, so continue to offer foods she doesn’t love right away, perhaps even mixed with other foods she does enjoy. If you’re persistent, most babies will eventually like most foods."
+    },
+    {
+      "title": "Choose organic whenever possible",
+      "description": "Buying organic food is one of the best ways to limit your baby’s exposure to toxic, persistent pesticides (as well as to antibiotics, artificial growth hormones, and GMOs – none of which are allowed in the production of organic food). Organic food is the purest, most healthful food you can offer your baby, and supporting organic farming also helps to ensure a safer food system for future generations."
+    },
+    {
+      "title": "Taste your baby’s food",
+      "description": "Since babies are just tiny versions of adults, they are likely to enjoy what you enjoy! Baby food won’t have the sugar or salt that we’re accustomed to, but the flavor of the food should still taste and smell good to you. If something isn’t appealing to you, odds are it won’t appeal to your baby either."
+    },
+    {
+      "title": "Be flexible",
+      "description": "Babies may enjoy some food sometimes and not others, or eat a lot one day and not another – just as is true for adults. When your baby is teething or sick, she may not want to eat any solids at all for a few days (which is fine, as long as she’s continuing to breastfeed or take a bottle). Rather than sticking to a strict feeding schedule, be flexible to meet your baby’s changing moods and needs."
+    },
+    {
+      "title": "Make feedings a positive experience",
+      "description": "One of the goals of solid feeding is to help your baby experience food positively, so he develops a good relationship with food and enjoys eating a wide variety of healthy foods throughout his lifetime. Keep this in mind and adjust whatever factors you need to (your baby’s position, the time of day, the type of food, etc) to make feeding time more comfortable for both you and your baby."
+    }
+  ],
+  "babiesMealFilipino": [
+    {
+      "ingredients": [
+        "• 1 manga"
+      ],
+      "procedures": [
+        "1. Hiwain ang mangga sa tatlong piraso at kuhanin ang laman.",
+        "2. Haluin ito sa blender, at pagkatapos ay ihain ito sa iyong anak."
+      ],
+      "allergen": "Ang pagkain na ito ay hindi naglalaman ng anumang karaniwang allergen."
+    },
+    {
+      "ingredients": [
+        "• 1 papaya"
+      ],
+      "procedures": [
+        "1. Hatiin sa dalawa ang papaya at kuhanin lang ang kalahati.",
+        "2. Balatan, tanggalin ang buto at ilagay sa blender.",
+        "3. Haluin ito sa blender, at pagkatapos ay ihain ito sa iyong anak."
+      ],
+      "allergen": "Ang pagkain na ito ay hindi naglalaman ng anumang karaniwang allergen."
+    },
+    {
+      "ingredients": [
+        "• 1 dragon fruit"
+      ],
+      "procedures": [
+        "1. Hatiin sa kalahati ang dragon fruit at ilagay ang laman sa blender.",
+        "2. Haluin ang sangkap sa blender at ihain sa iyong anak."
+      ],
+      "allergen": "Ang pagkain na ito ay hindi naglalaman ng anumang karaniwang allergen."
+    },
+    {
+      "ingredients": [
+        "• 1 peras"
+      ],
+      "procedures": [
+        "1. Balatan ang peras at hiwain sa maliliit na piraso.",
+        "2. Haluin ang mga sangkap sa blender at ihain sa iyong anak."
+      ],
+      "allergen": "Ang pagkain na ito ay hindi naglalaman ng anumang karaniwang allergen."
+    },
+    {
+      "ingredients": [
+        "• 1 mansanas"
+      ],
+      "procedures": [
+        "1. Balatan ang mansanas at hiwain sa maliliit na piraso.",
+        "2. Haluin ang mga sangkap sa blender at ihain sa iyong anak."
+      ],
+      "allergen": "Ang pagkain na ito ay hindi naglalaman ng anumang karaniwang allergen."
+    },
+    {
+      "ingredients": [
+        "• 1 saging"
+      ],
+      "procedures": [
+        "1. Balatan ang saging at hiwain sa maliliit na piraso.",
+        "2. Haluin ang mga sangkap sa blender at ihain sa iyong anak."
+      ],
+      "allergen": "Ang pagkain na ito ay hindi naglalaman ng anumang karaniwang allergen."
+    },
+    {
+      "ingredients": [
+        "• 1 abukado",
+        "• 1 saging"
+    ],
+      "procedures": [
+        "1. Hatiin ang abukado sa kalahati, kuhanin ang laman, at ilagay sa blender.",
+        "2. Balatan ang saging at hiwain ng maliliit bago ito isama sa avocado.",
+        "3. Haluin ang sangkap sa blender at ihain sa iyong anak."
+      ],
+      "allergen": "Ang pagkain na ito ay hindi naglalaman ng anumang karaniwang allergen."
+    },
+    {
+      "ingredients": [
+        "• 1 abukado",
+        "• 2 kutsarang purified milk"
+    ],
+      "procedures": [
+        "1. Hatiin ang abukado sa kalahati at kuhanin ang laman.",
+        "2. Pagkatapos i-blend ang abukado, ilagay ito sa lalagyan.",
+        "3. Magdagdag ng 2 tbsp ng purified milk sa nakahalong abukado at ihalo.",
+        "4. Ihain sa iyong anak."
+      ],
+      "allergen": "Ang pagkain na ito ay hindi naglalaman ng anumang karaniwang allergen."
+    },
+    {
+      "ingredients": [
+        "• 1 patatas"
+      ],
+      "procedures": [
+        "1. Pakuluan ang patatas ng 10 minuto sa tubig para lumambot.",
+        "2. Balatan ito at hiwain sa maliliit na piraso kapag lumambot na.",
+        "3. Haluin ang sangkap sa blender at ihain sa iyong anak."
+      ],
+      "allergen": "Ang pagkain na ito ay hindi naglalaman ng anumang karaniwang allergen."
+    },
+    {
+      "ingredients": [
+        "• 10 pcs ng green beans"
+      ],
+      "procedures": [
+        "1. Hatiin ang green beans sa dalawa.",
+        "2. Pakuluan ang tubig at ilagay ang green beans para lumambot.",
+        "3. Palambutin ito ng 10 minuto.",
+        "4. Hayaang muna itong lumamig pagkatapos lumambot.",
+        "5. Haluin ang sangkap sa blender at ihain sa iyong anak."
+      ],
+      "allergen": "Ang pagkain na ito ay hindi naglalaman ng anumang karaniwang allergen."
+    },
+    {
+      "ingredients": [
+        "• Kalahating pipino"
+      ],
+      "procedures": [
+        "1. Hiwain ang pipino sa maliliit na piraso at ilagay sa blender.",
+        "2. Haluin ang sangkap sa blender at ihain sa iyong anak."
+      ],
+      "allergen": "Ang pagkain na ito ay hindi naglalaman ng anumang karaniwang allergen."
+    },
+    {
+      "ingredients": [
+        "• 1/4 na kalabasa"
+      ],
+      "procedures": [
+        "1. Balatan ang kalabasa at tanggalin ang buto.",
+        "2. Pakuluan ang tubig at palambutin ang kalabasa sa loob ng 15 minuto.",
+        "3. Hiwain sa maliliit na piraso pagkatapos lumambot.",
+        "4. Haluin ang sangkap sa blender at ihain sa iyong anak."
+      ],
+      "allergen": "Ang pagkain na ito ay hindi naglalaman ng anumang karaniwang allergen."
+    },
+    {
+      "ingredients": [
+        "• 1 katamtamang laki ng kamote"
+      ],
+      "procedures": [
+        "1. Balatan ang kamote at pakuluan ng 15 minuto para lumambot.",
+        "2. Pagkatapos lumambot, hiwain sa maliliit na piraso.",
+        "3. Haluin ang sangkap sa blender at ihain sa iyong anak."
+      ],
+      "allergen": "Ang pagkain na ito ay hindi naglalaman ng anumang karaniwang allergen."
+    },
+    {
+      "ingredients": [
+        "• 10 pirasong cauliflower"
+      ],
+      "procedures": [
+        "1. Pakuluin ang cauliflower hanggang lumambot sa loob ng 15 minuto.",
+        "2. Palamigin at ilagay sa blender.",
+        "3. Haluin ang sangkap sa blender at ihain sa iyong anak."
+      ],
+      "allergen": "Ang pagkain na ito ay hindi naglalaman ng anumang karaniwang allergen."
+    },
+    {
+      "ingredients": [
+        "• 1/4 green peas "
+      ],
+      "procedures": [
+        "1. Pakuluin hanggang lumambot sa loob ng 15 minuto.",
+        "2. Palamigin at ilagay sa blender.",
+        "3. Haluin ang sangkap sa blender at ihain sa iyong anak."
+      ],
+      "allergen": "Ang pagkain na ito ay hindi naglalaman ng anumang karaniwang allergen."
+    },
+    {
+      "ingredients": [
+        "• 10 piraso ng broccoli"
+      ],
+      "procedures": [
+        "1. Pakuluin ang broccoli hanggang lumambot sa loob ng 15 minuto.",
+        "2. Palamigin at ilagay sa blender.",
+        "3. Haluin ang sangkap sa blender at ihain sa iyong anak."
+      ],
+      "allergen": "Ang pagkain na ito ay hindi naglalaman ng anumang karaniwang allergen."
+    },
+    {
+      "ingredients": [
+        "• 10 pirasong broccoli",
+        "• 1 patatas"
+    ],
+      "procedures": [
+        "1. Balatan ang patatas.",
+        "2. Hiwain ito sa maliliit na piraso.",
+        "3. Pakuluan at palambutin ang broccoli at patatas sa loob ng 15 minuto.",
+        "4. Pagsamahin at ilagay sa blender.",
+        "5. Haluin ang sangkap sa blender at ihain sa iyong anak."
+      ],
+      "allergen": "Ang pagkain na ito ay hindi naglalaman ng anumang karaniwang allergen."
+    },
+    {
+      "ingredients": [
+        "• 1 patatas"
+      ],
+      "procedures": [
+        "1. Balatan ang patatas at pakuluan hanggang lumambot sa loob ng 15 mins.",
+        "2. Kapag lumambot, durugin ito.",
+        "3. Haluin ang sangkap sa blender at ihain sa iyong anak."
+      ],
+      "allergen": "Ang pagkain na ito ay hindi naglalaman ng anumang karaniwang allergen."
+    },
+    {
+      "ingredients": [
+        "• 1 karot"
+      ],
+      "procedures": [
+        "1. Balatan ang karot at hiwain sa maliliit na piraso.",
+        "2. Palambutin ng 15 minuto sa kumukulong tubig.",
+        "3. Palamigin at ilagay sa blender.",
+        "4. Haluin ang sangkap sa blender at ihain sa iyong anak."
+      ],
+      "allergen": "Ang pagkain na ito ay hindi naglalaman ng anumang karaniwang allergen."
+    },
+    {
+      "ingredients": [
+        "• 1 karot",
+        "• 1 patatas"
+    ],
+      "procedures": [
+        "1. Balatan at hiwain ang carrot at patatas sa maliliit na piraso.",
+        "2. Palambutin ng 15 minuto sa kumukulong tubig.",
+        "3. Ilagay sa refrigerator.",
+        "4. Haluin ang sangkap sa blender at ihain sa iyong anak."
+      ],
+      "allergen": "Ang pagkain na ito ay hindi naglalaman ng anumang karaniwang allergen."
+    }
+  ],
+  "toddlersMealFilipino": [
+    {
+      "ingredients": [
+          "• kalahating karot",
+          "• kalahating patatas",
+          "• 1/8 green peas",
+          "• kalahating itlog",
+          "• 3 pirasong hiwa ng mansanas"
+    ],
+      "procedures": [
+        "1. Balatan ang karot at patatas.",
+        "2. Hiwain ang mansanans sa 3 piraso.",
+        "3. Pakuluan ang itlog sa loob ng 8 minuto.",
+        "4. Pagkatapos ay alisin ng balat at hiwain sa dalawa.",
+        "5. Hiwain ang karot at patatas pa kwadrado.",
+        "6. Sa loob ng 18 minuto, pakuluan at palambutin ang karot, patatas, at berdeng gisantes.",
+        "7. Kapag tapos na, ihain na ito sa iyong anak."
+      ],
+      "allergen": "Ang pagkain na ito ay hindi naglalaman ng anumang karaniwang allergen."
+    },
+    {
+      "ingredients": [
+        "• 1/8 ng kalabasa",
+        "• 1/8 ng berdeng mga gisantes",
+        "• 5 pirasong hiwa ng saging",
+        "• 2 pirasong hiwa ng pipino"
+    ],
+      "procedures": [
+        "1. Alisin ang balat at ang mga buto ng kalabasa at hiwain ito sa maliliit na piraso.",
+        "2. Kumuha ng 1/8 green beans.",
+        "3. Maghiwa ng 5 piraso ng saging.",
+        "4. Hiwain ang 2 piraso ng pipino.",
+        "5. Pakuluan ang tubig at palambutin gamit ang kalabasa at green beans sa loob ng 18 minuto.",
+        "6. Kapag tapos na, ihain na ito sa iyong anak."
+      ],
+      "allergen": "Ang pagkain na ito ay hindi naglalaman ng anumang karaniwang allergen."
+    },
+    {
+      "ingredients": [
+        "• 10 piraso ng berdeng gisantes",
+        "• bawang",
+        "• 1 kutsarang mantika",
+        "• kalahating itlog",
+        "• 5 piraso ng orange"
+    ],
+      "procedures": [
+        "1. Hatiin sa kalahati ang green beans.",
+        "2. Maghiwa ng bawang.",
+        "3. Pakuluin ang itlog ng 8 minuto, pagkatapos ay hatiin ito sa kalahati.",
+        "4. Balatan ang orange at gupitin sa 5 piraso.",
+        "5. Pakuluin ng 18 minuto para lumambot ang green beans.",
+        "6. Pagkatapos ay magpainit ng kawali at lagyan ng kutsara kapag mainit na ang taba.",
+        "7. Ihawin ang bawang hanggang mag-golden brown pati na rin ang lumambot na green beans.",
+        "8. Iluto ito sa 10 minuto, madalas na paghahalo, para hindi masunog .",
+        "9. Kapag tapos na, ihain na ito sa iyong anak."
+      ],
+      "allergen": "Ang pagkain na ito ay hindi naglalaman ng anumang karaniwang allergen."
+    },
+    {
+      "ingredients": [
+        "• kalahati ng kamote",
+        "• 5 piraso ng broccoli",
+        "• 3 pirasong hiwa ng mansanas"
+      ],
+      "procedures": [
+        "1. Hiwain ng maliliit ang kamote pagkatapos itong balatan.",
+        "2. Pakuluin ang tubig sa loob ng 18 minuto para lumalambot ang broccoli at kamote.",
+        "3. Kapag tapos na, ihain na ito sa iyong anak."
+      ],
+      "allergen": "Ang pagkain na ito ay hindi naglalaman ng anumang karaniwang allergen."
+    },
+    {
+      "ingredients": [
+        "• kalahating karot",
+        "• 1/8 green peas",
+        "• 1/8 na mais",
+        "• 200g harina",
+        "• 1 itlog",
+        "• mayonnaise",
+        "• ketchup",
+        "• oil"
+    ],
+      "procedures": [
+        "1. Balatan at hiwain ang carrot, mais, at green peas sa maliliit na piraso.",
+        "2. Pagsamahin ang karot, mais, green peas, itlog, at harina.",
+        "3. Kapag nakamit mo na ang medyo makapal na texture, painitin ang kawali at ilagay ang mantika.",
+        "4. Lutuin hanggang maging golden brown.",
+        "5. Gumawa ng sarsa na may mayonnaise at ketchup.",
+        "6. Ihain ito sa iyong anak pagkatapos itong iprito."
+      ],
+      "allergen": "Ang pagkain na ito ay hindi naglalaman ng anumang karaniwang allergen."
+    },
+    {
+      "ingredients": [
+        "• 1/8 karot",
+        "• 1/8 na mais",
+        "• 1/8 berdeng gisantes",
+        "• 1/8 na Manok",
+        "• 3 hiwa ng mansanas",
+        "• 1/8 na bigas"
+    ],
+      "procedures": [
+        "1. Balatan at hiwain ang carrot sa maliliit na piraso.",
+        "2. Pakuluan ang carrots, mais, green peas, at manok sa loob ng 18 minuto para lumambot.",
+        "3. Pagkatapos ay ihiwalay at hiwain ang manok.",
+        "4. Pagsamahin ang mais, carrot, green peas, at manok sa isang mixing bowl na may kanin.",
+        "5. Kapag tapos na, ihain na ito sa iyong anak."
+      ],
+      "allergen": "Ang pagkain na ito ay hindi naglalaman ng anumang karaniwang allergen."
+    },
+    {
+      "ingredients": [
+        "• 1/8 karot",
+        "• 1/8 patatas",
+        "• 1/8 berdeng gisantes",
+        "• 1 itlog",
+        "• star margarine"
+    ],
+      "procedures": [
+        "1. Balatan at hiwain ang isang karot at isang patatas sa maliliit na piraso.",
+        "2. Pakuluan ang carrot, green peas, at patatas para lumambot.",
+        "3. Painitin ang kawali.",
+        "4. Magdagdag ng kaunting star margarine at kapag natunaw na, ilagay ang carrots, patatas, at berdeng gisantes.",
+        "5. Pagkatapos nito, haluin ito ng 5 minuto bago ilagay ang itlog.",
+        "6. at pagkatapos ay ihain ito sa iyong anak kapag ito ay tapos na."
+      ],
+      "allergen": "Ang pagkain na ito ay hindi naglalaman ng anumang karaniwang allergen."
+    },
+    {
+      "ingredients": [
+        "• 1/8 karot",
+        "• 1/8 na mais",
+        "• 1/8 green peas",
+        "• wrapper",
+        "• mayonnaise",
+        "• ketchup"
+    ],
+      "procedures": [
+        "1. Balatan at hiwain ang carrot sa maliliit na piraso.",
+        "2. Pakuluin ang tubig at palambutin ang carrots, green peas, at mais.",
+        "3. Hiwain ito sa maliliit na piraso kapag lumambot na.",
+        "4. Lagyan ito ng itlog matapos itong hiwain.",
+        "5. Pag tapos na ito, pwede na itong ibalot sa pambalot.",
+        "6. Pagkatapos ay iprito ito hanggang sa maging golden brown.",
+        "7. Gumawa ng sarsa na may mayonnaise at ketchup.",
+        "8. Ihain ito sa iyong anak kapag ito ay luto na."
+      ],
+      "allergen": "Ang pagkain na ito ay hindi naglalaman ng anumang karaniwang allergen."
+    },
+    {
+      "ingredients": [
+        "• 5 piraso ng cauliflower",
+        "• breadcrumbs",
+        "• 5 hiwa ng mansanas",
+        "• mayonnaise",
+        "• ketchup"
+    ],
+      "procedures": [
+        "1. Ilagay ang mga breadcrumb sa isang lalagyan pati na rin ang isang itlog.",
+        "2. Initin ang mantika sa isang kawali.",
+        "3. Kapag mainit na, isawsaw cauliflower sa itlog, pagkatapos ay sa breadcrumbs, at ilagay sa mainit na mantika.",
+        "4. Lutuin hanggang sa  maging golden brown.",
+        "5. Gumawa ng sarsa na may mayonnaise at ketchup.",
+        "6. Panghuli, ihain na ito sa iyong anak."
+      ],
+      "allergen": "Ang pagkain na ito ay hindi naglalaman ng anumang karaniwang allergen."
+    },
+    {
+      "ingredients": [
+        "• 1/4 na bigas",
+        "• 1/8 berdeng gisantes",
+        "• star margarine"
+    ],
+      "procedures": [
+        "1. Painitin ang tubig at ibabad ang  green peas sa loob ng 15 minuto.",
+        "2. Pagkatapos, sa isang kawali, tunawin ang isang maliit na star margarine.",
+        "3. Idagdag ang pinalambot na green peas at haluing ng mabuti.",
+        "4. Lutuin ang kanin sa loob ng 15 minuto, o hanggang sa ito ay maluto.",
+        "5. Kapag tapos na, ihain ito sa iyong anak."
+      ],
+      "allergen": "Ang pagkain na ito ay hindi naglalaman ng anumang karaniwang allergen."
+    },
+    {
+      "ingredients": [
+        "• 1/4 na bigas",
+        "• 1 itlog",
+        "• star margarine",
+        "• 2 hiwa ng pipino",
+        "• 4 na pirasong orange"
+    ],
+      "procedures": [
+        "1. Magtunaw ng star margarine sa isang kawali.",
+        "2. Haluin ang kanin sa loob ng 5 minuto.",
+        "3. Haluin ang itlog ng 15 minuto, o hanggang matuyo ang kanin.",
+        "4. Kapag natapos na, ihain ito sa inyong anak."
+      ],
+      "allergen": "Ang pagkain na ito ay hindi naglalaman ng anumang karaniwang allergen."
+    },
+    {
+      "ingredients": [
+        "• 5 piraso ng broccoli",
+        "• 1 itlog",
+        "• breadcrumbs",
+        "• 5 hiwa ng mansanas",
+        "• mayonnaise",
+        "• ketchup"
+    ],
+      "procedures": [
+        "1. Maglagay ng mga breadcrumb sa lalagyan at ganon din sa itlog.",
+        "2. Magpainit ng mantika sa isang kawali.",
+        "3. Ibabad ang broccoli sa itlog, pagkatapos ay sa breadcrumbs, bago iprito.",
+        "4. Ilagay sa mainit na mantika.",
+        "5. Lutuin hangang sa maging golder brown.",
+        "6. Pagsamahin ang mayonnaise at ketchup para maging sauce.",
+        "7. Kapag natapos na, ihain na ito sa inyong anak."
+      ],
+      "allergen": "Ang pagkain na ito ay hindi naglalaman ng anumang karaniwang allergen."
+    },
+    {
+      "ingredients": [
+        "• 1/2 manok",
+        "• 1/4 na harina",
+        "• 1 itlog",
+        "• mayonnaise",
+        "• ketchup"
+    ],
+      "procedures": [
+        "1. Palambutin ang manok.",
+        "2. Kapag malambot na, hiwain na ito.",
+        "3. Pagkatapos nito, pagsamahin ang manok, harina, at itlog.",
+        "4. Iprito ito sa kawali na may mantika sa laki ng nugget.",
+        "5. Gumawa ng mayonnaise at sarsa ng ketchup at pagsamahin ang mga ito.",
+        "6. Kapag naluto na, ihain kasama ng sauce sa inyong anak."
+      ],
+      "allergen": "Ang pagkain na ito ay hindi naglalaman ng anumang karaniwang allergen."
+    },
+    {
+      "ingredients": [
+        "• 1/8 karot",
+        "• 1/8 patatas",
+        "• 1/8 na bigas",
+        "• 3 hiwa ng mansanas"
+    ],
+      "procedures": [
+        "1. Balatan at hiwain ang carrot at patatas sa maliliit na piraso.",
+        "2. Pakuluin ng 18 minuto para lumambot ang carrot at patatas.",
+        "3. Kapag lumambot, pagsamahin ang carrot, patatas, at kanin hanggang sa maging maayos.",
+        "4. Paghaluin ang carrot at patatas.",
+        "5. Kapag tapos na ihain na ito sa inyong anak."
+      ],
+      "allergen": "Ang pagkain na ito ay hindi naglalaman ng anumang karaniwang allergen."
+    },
+    {
+      "ingredients": [
+        "• 1 saging",
+        "• 1/4 na harina",
+        "• star margarine"
+    ],
+      "procedures": [
+        "1. Balatan at gilingin ang saging.",
+        "2. Sa isang lalagyan, pagsamahin ang saging at harina.",
+        "3. Tunawin ang margarine sa isang kawali.",
+        "4. Iprito ang pancake sa maliliit na parte.",
+        "5. Kapag natapos na ang pagprito, ikalat ang star margarine sa ibabaw.",
+        "6. Ibigay ito sa iyong anak."
+      ],
+      "allergen": "Ang pagkain na ito ay hindi naglalaman ng anumang karaniwang allergen."
+    },
+    {
+      "ingredients": [
+        "• 10 pcs ng cauliflower",
+        "• 1/4 na harina",
+        "• 2 itlog",
+        "• 4 na piraso ng orange"
+    ],
+      "procedures": [
+        "1. Hiwain ang cauliflower sa maliliit na piraso at pagsamahin ito sa 1 itlog sa isang lalagyan.",
+        "2. Ihalo nang maigi ang harina.",
+        "3. Pakuluan ang 1 itlog sa loob ng 8 minuto at pagkatapos ay hatiin.",
+        "4. Magpainit ng mantika sa kawali.",
+        "5. Iprito ang nuggets.",
+        "6. Ihain kasama ng kalahating orange at kalahating itlog."
+      ],
+      "allergen": "Ang pagkain na ito ay hindi naglalaman ng anumang karaniwang allergen."
+    },
+    {
+      "ingredients": [
+        "• kalahating karot",
+        "• kalahating patatas",
+        "• 1 kampanilya paminta",
+        "• 5 pirasong saging",
+        "• kalahating itlog"
+    ],
+      "procedures": [
+        "1. Balatan ang karot at patatas.",
+        "2. Hiwain ang carrot, patatas, at bell pepper sa tig-5 piraso.",
+        "3. Pahiran ng olive oil ang kawali.",
+        "4. Iluto ng 15 minuto.",
+        "5. Kapag natapos na, ihain ito kasama ng kalahating itlog at isang saging."
+      ],
+      "allergen": "Ang pagkain na ito ay hindi naglalaman ng anumang karaniwang allergen."
+    },
+    {
+      "ingredients": [
+        "• 1 itlog",
+        "• 2 pirasong orange",
+        "• 2 hiwa ng pipino",
+        "• star margarine"
+    ],
+      "procedures": [
+        "1. Buksan at ihalo ng maigi ang itlog.",
+        "2. Painitin ang kawali at lagyan ng margarine.",
+        "3. Iluto ang itlog dito hanggang malambot.",
+        "4. Kapag tapos na, gawing hugis mata ang dalawang pipino at gawing hugis ilong ang orange.",
+        "5. Gumawa ng smiley egg at ihain ito sa iyong anak."
+      ],
+      "allergen": "Ang pagkain na ito ay hindi naglalaman ng anumang karaniwang allergen."
+    },
+    {
+      "ingredients": [
+        "• 1/8 na pasta",
+        "• powder cheese",
+        "• kalahating itlog",
+        "• 4 na hiwa ng pipino"
+    ],
+      "procedures": [
+        "1. Pakuluan ang tubig at ibabad ang pasta sa loob ng 15 minuto.",
+        "2. Kapag malambot na, ilagay sa lalagyan na may powdered cheese at ihalo.",
+        "3. Ihain kasama ng mga hiwa ng pipino at itlog."
+      ],
+      "allergen": "Ang pagkain na ito ay hindi naglalaman ng anumang karaniwang allergen."
+    },
+    {
+      "ingredients": [
+        "• 1/8 karot",
+        "• 1/8 na mais",
+        "• 1/8 green peas",
+        "• 1/8 na manok",
+        "• 1/8 na bigas",
+        "• star margarin",
+        "• 4 na pirasong orange"
+    ],
+      "procedures": [
+        "1. Balatan at hiwain ang carrot sa maliliit na piraso, pagkatapos ay palambutin kasama ang mais at green peas sa loob ng 15 minuto.",
+        "2. Lutuin ang manok sa loob ng 20 minuto sa malakas ng apoy.",
+        "3. Tunawain ang margarine sa isang kawali.",
+        "4. Una, pagsamahin ang green peas, carrot, corn, at chicken sa isang mixing bowl sa loob ng 10 minuto.",
+        "5. Lutuin ito ng 15 minuto pagkatapos ng kanin.",
+        "6. Ihain kasama ng orange slices."
+      ],
+      "allergen": "Ang pagkain na ito ay hindi naglalaman ng anumang karaniwang allergen."
+    }
+  ],
+  "strategiesFilipino": [
+    {
+      "title": "Magsimula sa pagitan ng 6 na Buwan",
+      "description": "Bagama't maaaring bigyan ka ng iyong pediatrician ng permiso upang simulang pakainin ng mga solidong pagkain nag inyong sanggo sa loob ng apat na buwang appointment, ipinapakita ng pananaliksik - at sumasang-ayon ang mga eksperto sa kalusugan - na ang paghihintay hanggang anim na buwan ay pinakamainam para sa kalusugan ng iyong sanggol. Hindi lamang maaaring makapinsala ang pagpapakilala ng mga solido nang maaga, ngunit karamihan sa mga sanggol ay hindi pa handa sa pag-unlad o pisyolohikal hanggang 6-8 na buwan ang edad."
+    },
+    {
+      "title": "Simulan sa solido at masustansyang pagkain",
+      "description": "Noong panahon, maraming mga magulang ang nag-aalok ng rice cereal bilang unang pagkain, ngunit ito ay isang lumang rekomendasyon na walang tunay na pangangatwiran sa likod nito. Sa halip, magsimula sa anumang prutas o gulay na katas na gusto mo. Ang kalabasa, kamote, gisantes, abukado, at saging ay lahat ng mahusay na pagpipilian dahil madali silang ihalo at maging purong pagkain kung saan nakukuha ang katas nito. Ngunit, hangga't iniiwasan mo ang pulot at gatas ng baka (hindi inirerekomenda para sa mga sanggol na wala pang isang taon), depende kung ano ang ialok mo."
+    },
+    {
+      "title": "Panatilihin itong madulas",
+      "description": "Dahil ito ang unang pagkakataon na ang iyong sanggol ay kakain ng ibang bagay maliban sa gatas, ang hindi pagbabago ng anumang iniaalok mo ay dapat na nasa pagitan ng isang likido at isang solid. Magagawa mo ito sa pamamagitan ng paghahalo ng madulas na katas sa gatas ng ina o formula. Habang nagagawa ng iyong sanggol ang proseso ng pagkain mula sa isang kutsara, maaari kang dahan-dahang mag-alok ng mas makapal, mas may texture na mga puree."
+    },
+    {
+      "title": "Magsimula sa isang pagpapakain bawat araw",
+      "description": "Ang unang ilang buwan ng solid feeding ay tungkol sa pagpapakilala sa iyong sanggol sa mga bagong lasa, at texture, at sa nakagawiang pagkain ng pagkain maliban sa gatas. Kaya pinakamainam na magsimula nang mabagal - na may isang pagpapakain bawat araw, sa oras na ang iyong sanggol ay nasa mabuting kalagayan at medyo gutom ngunit hindi gutom na gutom. Isang oras o higit pa pagkatapos ng pag-aalaga/pagpapakain ng bote, o kapag ang iyong sanggol ay masaya at nakapagpahinga nang maayos, ay karaniwang mga magandang panahon."
+    },
+    {
+      "title": "Ipagpatuloy ang pagpapasuso o pagpapadede sa bote ",
+      "description": "Halos lahat ng mga calorie at nutrients ng iyong sanggol ay magmumula pa rin sa gatas ng ina o pormula, kaya't huwag na munang bawiin ang pag-aalaga o pagpapakain sa bote. Ang gatas ng ina o pormula pa rin ang pinakamasustansyang pagkain para sa iyong sanggol, at ang mga solido ay hindi magiging bulto ng pagkain ng iyong sanggol hanggang sa isang taong gulang o mas huli pa."
+    },
+    {
+      "title": "Huwag mag-alala kung may hindi gusto",
+      "description": "Maaaring makaramdam ka ng takot kung tinatanggihan ng iyong sanggol ang broccoli, ngunit hindi na kailangan. Maaaring tumagal ng 10 o higit pang pagkakalantad sa isang pagkain para magsimulang magustuhan ito ng isang sanggol, kaya patuloy na mag-alok ng mga pagkaing hindi niya gusto kaagad, marahil ay hinaluan pa ng iba pang mga pagkain na kanyang kinagigiliwan. Kung ikaw ay matiyaga, karamihan sa mga sanggol ay magugustuhan sa huli ang karamihan sa mga pagkain."
+    },
+    {
+      "title": "Pumili ng organic hangga't maaari",
+      "description": "Ang pagbili ng organikong pagkain ay isa sa mga pinakamahusay na paraan upang limitahan ang pagkakalantad ng iyong sanggol sa nakakalason, patuloy na mga pestisidyo (pati na rin sa mga antibiotic, artipisyal na mga hormone sa paglaki, at GMO - wala sa mga ito ang pinapayagan sa paggawa ng organikong pagkain). Ang organikong pagkain ay ang pinakadalisay, pinakamasustansyang pagkain na maaari mong ihandog sa iyong sanggol, at ang pagsuporta sa organikong pagsasaka ay nakakatulong din upang matiyak ang isang mas ligtas na sistema ng pagkain para sa mga susunod na henerasyon."
+    },
+    {
+      "title": "Tikman ang pagkain ng iyong sanggol  ",
+      "description": "Dahil ang mga sanggol ay maliliit na bersyon lamang ng mga nasa hustong gulang, malamang na masisiyahan sila sa kung ano ang iyong tinatamasa! Ang pagkain ng sanggol ay hindi magkakaroon ng asukal o asin na nakasanayan na natin, ngunit ang lasa ng pagkain ay daapat na mabango parin para sa iyo. Kung ang isang bagay ay hindi kaakit-akit sa iyo, malamang na hindi rin ito magustuhan iyong sanggol."
+    },
+    {
+      "title": "Maging marunong makibagay",
+      "description": "Maaaring masiyahan ang mga sanggol sa ilang pagkain kung minsan at hindi sa iba, o kumain ng marami sa isang araw at hindi sa isa pa - tulad ng  sa mga matatanda. Kapag ang iyong sanggol ay nagngingipin o may sakit, maaaring ayaw niyang kumain ng anumang solido sa loob ng ilang araw (na ayos lang, hangga't patuloy siyang nagpapasuso o umiinom ng bote). Sa halip na manatili sa isang mahigpit na iskedyul ng pagpapakain, maging flexible upang matugunan ang nagbabagong mood at pangangailangan ng iyong sanggol."
+    },
+    {
+      "title": "Gawing positibong karanasan ang pagpapakain",
+      "description": "Ang isa sa mga layunin ng solid feeding ay tulungan ang iyong sanggol na makaranas ng pagkain nang positibo, kaya nagkakaroon siya ng magandang relasyon sa pagkain at nasisiyahang kumain ng iba't ibang uri ng masustansyang pagkain sa buong buhay niya. Isaisip ito at ayusin ang anumang mga salik na kailangan mo (posisyon ng iyong sanggol, oras ng araw, uri ng pagkain, atbp) upang gawing mas komportable ang oras ng pagpapakain para sa iyo at sa iyong sanggol."
+    }
+  ],
+  "ourTeam": [
+    {
+      "profile": "ot1",
+      "name": "Ronna Barlomento",
+      "role": "Researcher",
+      "email": "ronnabarlomento08@gmail.com",
+      "location": "Capas, Tarlac Philippines"
+    },
+    {
+      "profile": "ot2",
+      "name": "Cejay Estares",
+      "role": "Researcher",
+      "email": "estarescejay5@gmail.com",
+      "location": "Capas, Tarlac Philippines"
+    },
+    {
+      "profile": "ot3",
+      "name": "Lindon Mananquil",
+      "role": "Researcher",
+      "email": "Levolution001@gmail.com",
+      "location": "Capas, Tarlac Philippines"
+    },
+    {
+      "profile": "ot4",
+      "name": "Maverick Dungca",
+      "role": "Researcher",
+      "email": "maverickdungca0620@gmail.com",
+      "location": "Capas, Tarlac Philippines"
+    },
+    {
+      "profile": "ot5",
+      "name": "Leander Mejia",
+      "role": "Developer",
+      "email": "leandermejia168@gmail.com",
+      "location": "Capas, Tarlac Philippines"
+    }
+  ],
+  "reference": [
+    {
+      "name": "Yvone Dungca",
+      "location": "Capas, Tarlac Philippines"
+    },
+    {
+      "name": "Lyneth Atilano",
+      "location": "Capas, Tarlac Philippines"
+    },
+    {
+      "name": "Nenita Mananquil",
+      "location": "Capas, Tarlac Philippines"
+    },
+    {
+      "name": "Cheryll Aldana",
+      "location": "Capas, Tarlac Philippines"
+    },
+    {
+      "name": "Rodiely Diolanto",
+      "location": "Capas, Tarlac Philippines"
+    },
+    {
+      "name": "Edison Balatbat",
+      "location": "Capas, Tarlac Philippines"
+    }
+  ]
+}
